@@ -1,5 +1,5 @@
 import { component$ } from '@builder.io/qwik';
-import { RequestHandler, useEndpoint, loader$ } from '@builder.io/qwik-city';
+import { RequestHandler, useEndpoint } from '@builder.io/qwik-city';
 
 interface Product {
   id: string;
